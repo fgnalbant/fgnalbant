@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gizem Nalbant Arslan</h1>
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQGDm1qU6haJkQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731951447646?e=1744243200&v=beta&t=XKwcJnioIRP2i9W8lYSxdrVgcXh8SeiWv6S9WZEyyh8)
 <h3 align="center">Data scientist who loves to draw insights using the power of data and is always ready to explore new horizons in the world of machine learning.</h3>
 
 
